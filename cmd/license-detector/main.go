@@ -11,7 +11,7 @@ import (
 	"os"
 
 	"github.com/spf13/pflag"
-	"gopkg.in/src-d/go-license-detector.v3/licensedb"
+	"github.com/chen-keinan/go-license-detector/licensedb"
 )
 
 func main() {
