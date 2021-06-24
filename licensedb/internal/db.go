@@ -14,7 +14,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ekzhu/minhash-lsh"
+	"github.com/chen-keinan/minhash-lsh"
 	"github.com/sergi/go-diff/diffmatchpatch"
 
 	"gopkg.in/src-d/go-license-detector.v3/licensedb/filer"
